@@ -1,4 +1,3 @@
-<style>.indent{padding-left: 1.7em }</style>
 Thuật toán: Sử dụng ngôn ngữ lập trình bất kỳ để giải quyết các bài toán dưới đây</br>
 Cho mảng số nguyên chưa được sắp xếp. Viết hàm xếp 5 số lớn nhất ra đầu mảng.</br>
 Test case:</br>
